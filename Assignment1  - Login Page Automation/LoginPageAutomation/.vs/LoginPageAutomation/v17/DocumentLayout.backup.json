@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Raghav\\Desktop\\Capegemini Training Assignments\\Testing\\Selenium\\Assignment1  - Login Page Automation\\LoginPageAutomation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19DC87D4-404E-414C-8088-57F66A15AFC6}|LoginPageAutomation.csproj|c:\\users\\raghav\\desktop\\capegemini training assignments\\testing\\selenium\\assignment1  - login page automation\\loginpageautomation\\logintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19DC87D4-404E-414C-8088-57F66A15AFC6}|LoginPageAutomation.csproj|solutionrelative:logintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DC87D4-404E-414C-8088-57F66A15AFC6}|LoginPageAutomation.csproj|c:\\users\\raghav\\desktop\\capegemini training assignments\\testing\\selenium\\assignment1  - login page automation\\loginpageautomation\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19DC87D4-404E-414C-8088-57F66A15AFC6}|LoginPageAutomation.csproj|solutionrelative:loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DC87D4-404E-414C-8088-57F66A15AFC6}|LoginPageAutomation.csproj|c:\\users\\raghav\\desktop\\capegemini training assignments\\testing\\selenium\\assignment1  - login page automation\\loginpageautomation\\securepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19DC87D4-404E-414C-8088-57F66A15AFC6}|LoginPageAutomation.csproj|solutionrelative:securepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SecurePage.cs",
+              "DocumentMoniker": "C:\\Users\\Raghav\\Desktop\\Capegemini Training Assignments\\Testing\\Selenium\\Assignment1  - Login Page Automation\\LoginPageAutomation\\SecurePage.cs",
+              "RelativeDocumentMoniker": "SecurePage.cs",
+              "ToolTip": "C:\\Users\\Raghav\\Desktop\\Capegemini Training Assignments\\Testing\\Selenium\\Assignment1  - Login Page Automation\\LoginPageAutomation\\SecurePage.cs",
+              "RelativeToolTip": "SecurePage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T09:08:53.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\Raghav\\Desktop\\Capegemini Training Assignments\\Testing\\Selenium\\Assignment1  - Login Page Automation\\LoginPageAutomation\\LoginPage.cs",
+              "RelativeDocumentMoniker": "LoginPage.cs",
+              "ToolTip": "C:\\Users\\Raghav\\Desktop\\Capegemini Training Assignments\\Testing\\Selenium\\Assignment1  - Login Page Automation\\LoginPageAutomation\\LoginPage.cs",
+              "RelativeToolTip": "LoginPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T09:08:14.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginTests.cs",
+              "DocumentMoniker": "C:\\Users\\Raghav\\Desktop\\Capegemini Training Assignments\\Testing\\Selenium\\Assignment1  - Login Page Automation\\LoginPageAutomation\\LoginTests.cs",
+              "RelativeDocumentMoniker": "LoginTests.cs",
+              "ToolTip": "C:\\Users\\Raghav\\Desktop\\Capegemini Training Assignments\\Testing\\Selenium\\Assignment1  - Login Page Automation\\LoginPageAutomation\\LoginTests.cs",
+              "RelativeToolTip": "LoginTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T09:03:22.735Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
